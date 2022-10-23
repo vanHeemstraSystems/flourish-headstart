@@ -40,3 +40,5 @@ The embed code looks like this:
 ```
 <div class="flourish-embed" data-src="story/1721702"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ```
+
+Use together with the online presenatation tool at Canva (see https://www.canva.com/), or see https://github.com/vanHeemstraSystems/canva-headstart/blob/main/README.md
