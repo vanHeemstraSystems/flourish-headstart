@@ -24,3 +24,13 @@ Finally, as of today, you can add an audio file to any Flourish story to create 
 - Hit “Publish to share or embed”
 
 Another option is to skip the audio upload step to make an “autoplay” story that silently progresses through the slides at specified times, optionally looping at the end. This can be handy, for example, when using a Flourish data story on a big screen at an event.
+
+## 200 - Requirements
+
+A subscription with flourish. I am using my FREE account.
+
+## 300 - Building Our Application
+
+For example, **Connecting the Dots** at https://app.flourish.studio/story/1721702/preview/#slide-1
+
+And the publicly available version is at 
