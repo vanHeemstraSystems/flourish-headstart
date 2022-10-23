@@ -34,3 +34,9 @@ A subscription with flourish. I am using my FREE account.
 For example, **Connecting the Dots** at https://app.flourish.studio/story/1721702/preview/#slide-1
 
 And the publicly available version is at https://public.flourish.studio/story/1721702/
+
+The embed code looks like this:
+
+```
+<div class="flourish-embed" data-src="story/1721702"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
