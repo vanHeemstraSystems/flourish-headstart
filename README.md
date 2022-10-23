@@ -42,3 +42,26 @@ The embed code looks like this:
 ```
 
 Use together with the online presenatation tool at Canva (see https://www.canva.com/), or see https://github.com/vanHeemstraSystems/canva-headstart/blob/main/README.md
+
+### Flourish for developers
+
+Flourish is a platform for data visualization. Flourish allows anyone to easily create beautiful and animated data visualizations and maps, regardless of their skillset.
+
+However, if you’re a developer or your company has developers, Flourish can be extended to be even more flexible and powerful.
+
+**Flourish SDK**
+Create your own templates and upload them to Flourish to be used publicly or privately within a company.
+
+[Get started »](https://developers.flourish.studio/sdk/introduction)
+
+**Flourish Live API**
+Dynamically load and manipulate Flourish visualizations. Useful for CMS integrations or live data input.
+
+[Get started »](https://developers.flourish.studio/api/introduction)
+
+**Flourish Embedding guide**
+Learn about different embedding and third-party integration options and how to implement analytics.
+
+[Get started »](https://developers.flourish.studio/embedding/introduction)
+
+This developer hub contains documentation, guides and examples for you to get started. Have a look on our help page if you get stuck.
