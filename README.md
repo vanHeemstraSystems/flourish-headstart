@@ -64,4 +64,4 @@ Learn about different embedding and third-party integration options and how to i
 
 [Get started »](https://developers.flourish.studio/embedding/introduction)
 
-This developer hub contains documentation, guides and examples for you to get started. Have a look on our help page if you get stuck.
+This developer hub contains documentation, guides and examples for you to get started. Have a look on our [help page](https://developers.flourish.studio/resources/help) if you get stuck.
